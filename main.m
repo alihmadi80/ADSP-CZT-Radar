@@ -1,5 +1,5 @@
 % =========================================================================
-% MASTER SCRIPT: run_all.m (main.m)
+% MASTER SCRIPT: main.m 
 % Project: High-Resolution Spectral Zooming for Radar Sensing using CZT
 % Author: Ali Ahmadi
 % Course: Advanced Digital Signal Processing (ADSP)
@@ -46,4 +46,5 @@ fprintf('      -> Experiment 4 completed. (Figure 4 generated)\n\n');
 
 fprintf('======================================================\n');
 fprintf('  All experiments successfully reproduced!\n');
+
 fprintf('======================================================\n');
