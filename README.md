@@ -26,4 +26,5 @@ To strictly reproduce the results, plots, and tables presented in the conference
 
 1. Clone this repository to your local machine:
    ```bash
-   git clone [https://github.com/YourUsername/ADSP-CZT-Radar.git](https://github.com/YourUsername/ADSP-CZT-Radar.git)
+
+   git clone [https://github.com/alihmadi80/ADSP-CZT-Radar.git](https://github.com/alihmadi80/ADSP-CZT-Radar.git)
