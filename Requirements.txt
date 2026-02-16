@@ -1,0 +1,13 @@
+# MATLAB Requirements for ADSP Project
+# Project: High-Resolution Spectral Zooming for Radar Sensing using CZT
+
+1. MATLAB Environment:
+   - Minimum Version: MATLAB R2021a (or newer recommended)
+
+2. Required Toolboxes:
+   - Signal Processing Toolbox (Required for kaiser(), awgn(), etc.)
+   - Communications Toolbox (Optional, fallback for specific noise generations)
+
+3. Hardware Requirements (for accurate Runtime Benchmarking):
+   - A standard multi-core CPU (e.g., Intel Core i5/i7 or AMD Ryzen)
+   - Note: Execution times in Exp 2 may vary depending on the host CPU, but the O(1) complexity trend will remain identical.
